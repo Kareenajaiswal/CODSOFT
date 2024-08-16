@@ -56,9 +56,6 @@ cafe-delight/
 
 You can open the `index.html` file directly in any browser, or you can deploy it on any web server to see how it functions on different devices.
 
-## Screenshots
-
-![Cafe Delight Hero Section](https://via.placeholder.com/1024x300?text=Screenshot)
 
 ## License
 
